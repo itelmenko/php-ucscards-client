@@ -1,0 +1,17 @@
+{
+	"name": "itelmenko/php-usccards-client",
+	"type": "library",
+	"description": "USCCards API Client PHP library",
+	"homepage": "itelmenko/php-usccards-client",
+	"license": "MIT",
+	"require": {
+		"php": ">=7.2.0",
+		"ext-curl": "*"
+	},
+	"require-dev": {},
+	"autoload": {
+		"psr-4": {
+			"": "src/"
+		}
+	}
+}
