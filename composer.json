@@ -2,7 +2,7 @@
 	"name": "itelmenko/php-ucscards-client",
 	"type": "library",
 	"description": "Ucscards API Client PHP library",
-	"homepage": "itelmenko/php-ucscards-client",
+	"homepage": "https://github.com/itelmenko/php-ucscards-client",
 	"license": "MIT",
 	"require": {
 		"php": ">=7.2.0",
